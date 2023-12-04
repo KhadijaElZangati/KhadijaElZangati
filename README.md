@@ -12,5 +12,8 @@ Skills: FLutter / REACT / JS / HTML / CSS/SQL/C/C++
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KhadijaElZangati)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/feed//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/khadijaelzangati)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/KZangati)  
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhadijaElZangati)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
