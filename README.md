@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Khadija El zangati
+### Hi there 👋,I'm Khadija El zangati
 #### I am a Designer Developper working with Data(BI , data Maining) 
 ![I am a Designer Developper working with Data(BI , data Maining) ](https://i.pinimg.com/564x/08/29/cc/0829cc1818d40b77f11df5740b264feb.jpg)
 
